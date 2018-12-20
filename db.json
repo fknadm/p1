@@ -2,11 +2,13 @@
   "projects": [
     {
       "id": 1,
+      "name": "Project A",
       "start_date": "1/1/2000",
       "end_date": "2/2/2001"
     },
     {
       "id": 2,
+      "name": "Project B",
       "start_date": "1/1/2002",
       "end_date": "2/2/2003"
     }
